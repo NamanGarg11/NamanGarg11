@@ -3,6 +3,7 @@
 # 💫 About Me:
 🎓 I am a second year engeneering student at KIET GROUP OF INSTITUTION**. <br> 
 🌱 I’m currently learning **WEB DEV**. <br>
+🎓 Seeking an internship to apply and enhance my skills.<br>
 🎓 I'm skilled in C++, JavaScript, React, Node.js, and Python.  
 <br/>
 
@@ -27,11 +28,12 @@
     <td>
       <a href="https://leetcode.com/namangarg09810/">
         <img src="https://leetcard.jacoblin.cool/namangarg09810?theme=dark&font=source_code_pro&ext=contest" />
+      <img src="https://leetcode-stats.vercel.app/api?username=namangarg09810&theme=Dark" alt="leetcode stats"/>
       </a>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGarg11&theme=dark&hide_border=true" alt="Streak Stats" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGarg11&theme=dark&hide_border=true&layout=compact" alt="Top Languages" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGarg11&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
