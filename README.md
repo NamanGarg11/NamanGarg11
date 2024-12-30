@@ -6,6 +6,7 @@
 🎓 Seeking an internship to apply and enhance my skills.<br>
 🎓 I'm skilled in C++, JavaScript, React, Node.js, and Python.  
 <br/>
+📄<a href="https://drive.google.com/file/d/1TwmuC8rktai9zopPW6nHsGdHQJ900YV4/view?usp=drive_link" style="text-decoration: underline; color: inherit;" onmouseover="this.style.color='#00ffff'" onmouseout="this.style.color='inherit'"> <b>Check out my Resume</b></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-garg-15236429a/) 
