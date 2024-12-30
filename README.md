@@ -30,8 +30,8 @@
       </a>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGarg11&theme=dark&hide_border=true" alt="Streak Stats" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGarg11&theme=dark&hide_border=true&layout=compact alt="Top Languages" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGarg11&theme=dark&hide_border=true" alt="Streak Stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGarg11&theme=dark&hide_border=true&layout=compact" alt="Top Languages" /> -->
     </td>
   </tr>
 </table>
