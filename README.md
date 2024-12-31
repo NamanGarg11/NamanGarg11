@@ -10,6 +10,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-garg-15236429a/) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/NamanGarg112?style=social)](https://x.com/NamanGarg112)
+
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
