@@ -1,12 +1,12 @@
 # Hi there 👋 I am Naman !
 
 # 💫 About Me:
-🎓 I am a second year engeneering student at KIET GROUP OF INSTITUTION**. <br> 
-🌱 I’m currently learning **WEB DEV**. <br>
+🎓 I am a Thrid year engeneering student at KIET GROUP OF INSTITUTION**. <br> 
+🌱 I’m a **WEB DEVELOPER** skilled in building scalable **BACKEND**. <br>
 🎓 Seeking an internship to apply and enhance my skills.<br>
-🎓 I'm skilled in java, C++, JavaScript, React, Node.js, Springboot and Python.  
+🎓 I'm skilled in java, C++, JavaScript, Springboot , React, Node.js.  
 <br/>
-📄<a href="https://drive.google.com/file/d/1gpEoZTVIGybX7_BMltbvoQHCRe-UXhu3/view?usp=drive_link"> <b>Check out my Resume</b></a>
+📄<a href="https://drive.google.com/file/d/15p3ukykPGZIgGK8Mzm13Y9SJW68EeIN5/view?usp=drive_link"> <b>Check out my Resume</b></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-garg-15236429a/) 
